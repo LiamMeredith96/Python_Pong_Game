@@ -38,7 +38,7 @@ Python dependencies:
 
         pip install -r requirements.txt
 
-Training mode (NEAT, AI vs AI)
+# Training mode (NEAT, AI vs AI)
 
 In training mode, NEAT evolves neural networks that control the paddles.
 
